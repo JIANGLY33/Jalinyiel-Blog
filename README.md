@@ -8,7 +8,7 @@
 
 ### 🤗索引如下：
 
-[浅谈快速排序](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/浅谈快速排序.md)
+- [浅谈快速排序](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/浅谈快速排序.md)
 
-[浅析单例模式的双重检验锁](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/浅析单例模式的双重校验锁.md)
+- [浅析单例模式的双重检验锁](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/浅析单例模式的双重校验锁.md)
 
