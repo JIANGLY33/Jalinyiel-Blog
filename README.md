@@ -2,11 +2,11 @@
 
 #  Jalinyiel's Blog
 
-<font face = "楷体" size = "5">😏个人博客，内容繁杂，疯狂挖坑，随缘填坑</font>
+### 😏个人博客，内容繁杂，疯狂挖坑，随缘填坑
 
-<font face = "楷体" size = "5">😊力求讲清楚想讲的一切，语言风格稍显啰嗦</font>
+### 😊力求讲清楚想讲的一切，语言风格稍显啰嗦
 
-<font face = "楷体" size = "5">🤗索引如下：</font>
+### 🤗索引如下：
 
 [浅谈快速排序]([https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/%E6%B5%85%E8%B0%88%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F.md](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/浅谈快速排序.md))
 
