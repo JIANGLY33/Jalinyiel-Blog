@@ -12,3 +12,5 @@
 
 - [浅析单例模式的双重检验锁](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/浅析单例模式的双重校验锁.md)
 
+- [理解JavaScript中的闭包](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/理解JavaScript中的闭包.md)
+
