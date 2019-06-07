@@ -9,8 +9,7 @@
 ### 🤗索引如下：
 
 - [浅谈快速排序](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/浅谈快速排序.md)
-
 - [浅析单例模式的双重检验锁](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/浅析单例模式的双重校验锁.md)
-
 - [理解JavaScript中的闭包](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/理解JavaScript中的闭包.md)
+- [详解红黑树]([https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/%E8%AF%A6%E8%A7%A3%E7%BA%A2%E9%BB%91%E6%A0%91.md](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/详解红黑树.md))
 
