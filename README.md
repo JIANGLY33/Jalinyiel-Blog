@@ -13,5 +13,5 @@
 - [理解JavaScript中的闭包](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/理解JavaScript中的闭包.md)
 - [详解红黑树](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/详解红黑树.md)
 
-- [Spring相关](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/详解红黑树.md)
+- [Spring相关](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/Spring)
 
