@@ -1233,9 +1233,7 @@ public class ArrayList<E> extends AbstractList<E>
     }
 
     /**
-     * Removes all elements satisfying the given predicate, from index
-     * i (inclusive) to index end (exclusive).
-     * 对ArrayList列表给定下标范围内的值以Predicate接口给定的方式进行判断
+     * 对ArrayList列表给定下标范围内(左闭右开)的值以Predicate接口给定的方式进行判断
      * 移除判断为true的元素
      */
     boolean removeIf(Predicate<? super E> filter, int i, final int end) {
