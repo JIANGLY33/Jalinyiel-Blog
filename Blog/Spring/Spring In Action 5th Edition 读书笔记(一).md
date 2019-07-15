@@ -59,7 +59,7 @@ In addition to starter dependencies and autoconfiguration,Spring Boot also offer
 	The  Actuator  provides  runtime  insight  into  the  inner  workings  of  an  application, including metrics, thread dump information, application health, and envi-ronment properties available to the application.
 	Flexible specification of environment properties.
 	Additional  testing  support  on  top  of  the  testing  assistance  found  in  the  core framework.
-	解读：对Spring Boot的主要功能略作归纳：1.Spring Boot提供了starter依赖 2.Spring Boot提供了自动配置  3.Spring Boot提供了Actuator来监控程序运行时的情况 4.灵活的读取环境属性的方式 5.Spring Boot提供了额外的测试支持
+	解读：对Spring Boot的主要功能略作归纳：1.Spring Boot提供了starter依赖 2.Spring Boot提供了自动配置  3.Spring Boot提供了Actuator来监控程序运行时的情况 4.灵活的读取环境属性的方式 5.Spring Boot提供了额外的测试支持。
 ```
 
 ### 2.出现的重要注解
