@@ -1,4 +1,4 @@
-# Spring In Action 5th Edition 读书笔记
+# Spring In Action 5th Edition 读书笔记（一）
 
 
 
@@ -84,3 +84,23 @@ In addition to starter dependencies and autoconfiguration,Spring Boot also offer
 **@SpringBootTest：**
 
 ​	标注在类上，使得Junit拥有启动Spring Boot程序的能力，它起到的作用就好像Spring Boot所提供的引导类中main()中的SpringApplication.run()所起到的作用.
+
+**@Component:**
+
+​	标注在类上，使得该类能够被自动装配的扫描所发现。语义上表示该类是一般的无特殊含义的组件。与其有相同功能的还有**@Controller,@Service,@Repository**，不过这些注解在语义上说明被标注的类是特定的组件。
+
+**@RequestMapping:**
+
+​	标注在类或方法上，使得方法能够处理响应映射的HTTP请求，而**@GetMapping，@PostMapping，@DeleteMapping，@PutMapping，@PatchMapping**则是在@RequestMapping的基础上，限定了请求的类型分别是get，post，delete，put和patch。
+
+**@RestController：**
+
+​	标注在类上，语义上说明该类是一个提供REST服务的控制器。其实是一个组合注解，即@Controller和@ResponseBody组合而成，表示该控制器中的所有方法的返回值都将以JSON的形式交还。
+
+**@WebMvcTest：**
+
+​	标注在类上，被标注的类将被提供Spring MVC的测试支持。从而能够注入一个MockMvc对象来进行测试。
+
+**@AutoWired：**
+
+​	标注在方法或变量上，表示从IOC容器自动取出bean注入给变量或方法所需的参数。
