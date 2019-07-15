@@ -64,7 +64,7 @@ In addition to starter dependencies and autoconfiguration,Spring Boot also offer
 
 ### 2.出现的重要注解
 
-​	罗列并解释本章中出现的一些重要注解：
+	罗列并解释本章中出现的一些重要注解：
 
 **@SpringBootApplication：**
 	组合注解,标注在一个类上，包含了@SpringBootConfiguration，@EnableAutoConfiguration，@ComponentScan。
