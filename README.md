@@ -15,4 +15,6 @@
 - [ArrayList源码分析](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/ArrayList源码分析.md)
 
 - [Redis相关](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/Redis)
-  1.   [Redis五大数据类型API整理](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/Redis/Redis API.md)
+  
+  [Redis五大数据类型API整理](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/Redis/Redis API.md)
+
