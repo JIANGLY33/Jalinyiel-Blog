@@ -13,8 +13,6 @@
 - [理解JavaScript中的闭包](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/理解JavaScript中的闭包.md)
 - [详解红黑树](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/详解红黑树.md)
 - [ArrayList源码分析](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/ArrayList源码分析.md)
-
 - [Redis相关](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/Redis)
-  
-  [Redis五大数据类型API整理](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/Redis/Redis API.md)
+1. [Redis五大数据类型API整理](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/Redis/RedisAPI.md)
 
