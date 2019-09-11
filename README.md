@@ -16,3 +16,6 @@
 - [Redis相关](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/Redis)
     1. [Redis五大数据类型API整理](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/Redis/RedisAPI.md)
 
+- [机器学习](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/MachineLearning)
+
+  ​	1.[评估方法](https://github.com/JIANGLY33/Jalinyiel-Blog/blob/master/Blog/MachineLearning/机器学习笔记之评估方法.md)
